@@ -14,7 +14,7 @@
 
     <p class="bash">
         <span class="command-bash">wget</span> http://download.magephp.com/magallanes.latest.tar.gz -O magallanes.tar.gz<br />
-        <span class="command-bash">tar</span> xfz magallanes.tar.gz
+        <span class="command-bash">tar</span> xfz magallanes.latest.tar.gz
     </p>
 
     <br />
